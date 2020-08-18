@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/css/main.83472d6d.chunk.css",
-    "main.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/main.7ebaa508.chunk.js",
-    "main.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/main.7ebaa508.chunk.js.map",
-    "runtime-main.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/runtime-main.862caf5d.js",
-    "runtime-main.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/runtime-main.862caf5d.js.map",
-    "static/js/2.850e13a9.chunk.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js",
-    "static/js/2.850e13a9.chunk.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js.map",
-    "index.html": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/index.html",
-    "precache-manifest.ccdbe65b119c801e571935af4aa163a0.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/precache-manifest.ccdbe65b119c801e571935af4aa163a0.js",
-    "service-worker.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/service-worker.js",
-    "static/css/main.83472d6d.chunk.css.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/css/main.83472d6d.chunk.css.map",
-    "static/js/2.850e13a9.chunk.js.LICENSE.txt": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js.LICENSE.txt"
+    "main.css": "https://github.com/HenryTam123/music/tree/master/public/static/css/main.83472d6d.chunk.css",
+    "main.js": "https://github.com/HenryTam123/music/tree/master/public/static/js/main.d7761f74.chunk.js",
+    "main.js.map": "https://github.com/HenryTam123/music/tree/master/public/static/js/main.d7761f74.chunk.js.map",
+    "runtime-main.js": "https://github.com/HenryTam123/music/tree/master/public/static/js/runtime-main.f0ad6c55.js",
+    "runtime-main.js.map": "https://github.com/HenryTam123/music/tree/master/public/static/js/runtime-main.f0ad6c55.js.map",
+    "static/js/2.850e13a9.chunk.js": "https://github.com/HenryTam123/music/tree/master/public/static/js/2.850e13a9.chunk.js",
+    "static/js/2.850e13a9.chunk.js.map": "https://github.com/HenryTam123/music/tree/master/public/static/js/2.850e13a9.chunk.js.map",
+    "index.html": "https://github.com/HenryTam123/music/tree/master/public/index.html",
+    "precache-manifest.3da3db72500d1800576950bc62560287.js": "https://github.com/HenryTam123/music/tree/master/public/precache-manifest.3da3db72500d1800576950bc62560287.js",
+    "service-worker.js": "https://github.com/HenryTam123/music/tree/master/public/service-worker.js",
+    "static/css/main.83472d6d.chunk.css.map": "https://github.com/HenryTam123/music/tree/master/public/static/css/main.83472d6d.chunk.css.map",
+    "static/js/2.850e13a9.chunk.js.LICENSE.txt": "https://github.com/HenryTam123/music/tree/master/public/static/js/2.850e13a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.862caf5d.js",
+    "static/js/runtime-main.f0ad6c55.js",
     "static/js/2.850e13a9.chunk.js",
     "static/css/main.83472d6d.chunk.css",
-    "static/js/main.7ebaa508.chunk.js"
+    "static/js/main.d7761f74.chunk.js"
   ]
 }
