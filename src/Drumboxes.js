@@ -26,7 +26,9 @@ const Drumboxes = () => {
         button.style.transform = "scale(1.1)";
 
         if (button.value === "1") {
-          const sound = new Audio(process.env.PUBLIC_URL + `${sounds[i]}0.wav`);
+          const sound = new Audio(
+            process.env.PUBLIC_URL + `/${sounds[i]}0.wav`
+          );
           sound.play();
         }
       }
