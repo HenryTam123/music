@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.83472d6d.chunk.css",
-    "main.js": "/music/static/js/main.650243e0.chunk.js",
-    "main.js.map": "/music/static/js/main.650243e0.chunk.js.map",
-    "runtime-main.js": "/music/static/js/runtime-main.145e4bdc.js",
-    "runtime-main.js.map": "/music/static/js/runtime-main.145e4bdc.js.map",
-    "static/js/2.850e13a9.chunk.js": "/music/static/js/2.850e13a9.chunk.js",
-    "static/js/2.850e13a9.chunk.js.map": "/music/static/js/2.850e13a9.chunk.js.map",
-    "index.html": "/music/index.html",
-    "precache-manifest.68dcf0727f73656ccfae118f70244644.js": "/music/precache-manifest.68dcf0727f73656ccfae118f70244644.js",
-    "service-worker.js": "/music/service-worker.js",
-    "static/css/main.83472d6d.chunk.css.map": "/music/static/css/main.83472d6d.chunk.css.map",
-    "static/js/2.850e13a9.chunk.js.LICENSE.txt": "/music/static/js/2.850e13a9.chunk.js.LICENSE.txt"
+    "main.css": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/css/main.83472d6d.chunk.css",
+    "main.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/main.7ebaa508.chunk.js",
+    "main.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/main.7ebaa508.chunk.js.map",
+    "runtime-main.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/runtime-main.862caf5d.js",
+    "runtime-main.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/runtime-main.862caf5d.js.map",
+    "static/js/2.850e13a9.chunk.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js",
+    "static/js/2.850e13a9.chunk.js.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js.map",
+    "index.html": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/index.html",
+    "precache-manifest.ccdbe65b119c801e571935af4aa163a0.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/precache-manifest.ccdbe65b119c801e571935af4aa163a0.js",
+    "service-worker.js": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/service-worker.js",
+    "static/css/main.83472d6d.chunk.css.map": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/css/main.83472d6d.chunk.css.map",
+    "static/js/2.850e13a9.chunk.js.LICENSE.txt": "https://github.com/HenryTam123/music/tree/gh-pages/sounds/static/js/2.850e13a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.145e4bdc.js",
+    "static/js/runtime-main.862caf5d.js",
     "static/js/2.850e13a9.chunk.js",
     "static/css/main.83472d6d.chunk.css",
-    "static/js/main.650243e0.chunk.js"
+    "static/js/main.7ebaa508.chunk.js"
   ]
 }
